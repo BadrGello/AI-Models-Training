@@ -1,6 +1,6 @@
 # AI Models  
 
-This repository contains implementations various AI models:  
+This repository contains implementations of various AI models:  
 
 ## 1. Neural Network from Scratch  
 - Built a fully connected feedforward neural network using only NumPy.  
